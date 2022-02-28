@@ -32,7 +32,7 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    Task List
+                    App de Tareas de Jean Karlo Obando - 0401683784
                 </a>
             </div>
 
